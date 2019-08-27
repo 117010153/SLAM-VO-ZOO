@@ -20,6 +20,7 @@ We also collect some papers about plane&object detection, depth pridiction and s
   TU Munich
   * Estimating the absolute scale of the reconstruction. obtaining dense depths along texture-less regions and dealing with pure rotational motions
   * privileges depth prediction in image locations where monocular SLAM approaches tend to fail. 
+ * `ICRA2017` Visibility enhancement for underwater visual SLAM based on underwater light scattering model [(link)](https://ieeexplore.ieee.org/document/7989087) `underwater` `image enhancement` Younggun Cho, Ayoung Kim
 
 ## Stereo SLAM
 
